@@ -1,1 +1,1 @@
-Project for UCSB Diagnostic AI Course
+Project for UCSB SRA Diagnostic AI Summer Program
